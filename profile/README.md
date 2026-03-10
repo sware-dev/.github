@@ -1,4 +1,4 @@
-## Abdullah Gül University 👋
+## swd 👋
 
 <!--
 
